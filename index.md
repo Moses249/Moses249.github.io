@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Understanding and helping people has always been at the center of my life. Now, I believe that through cloud technology, I can make an even greater impact on the socially disadvantaged.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This page shows my dedication to the world!
