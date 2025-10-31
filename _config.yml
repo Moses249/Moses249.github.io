@@ -28,7 +28,12 @@ title: Moses' blog
 email: moses24h@gmail.com
 author: Moses H
 
-theme: jekyll-theme-yat
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
+# Add the following to activate the plugin
+plugins:
+  - jekyll-remote-theme
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
